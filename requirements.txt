@@ -1,0 +1,10 @@
+Flask
+PILLOW
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+tensorflow
+openpyxl
+opencv-python
